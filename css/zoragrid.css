@@ -1,0 +1,20 @@
+#zg-table {
+}
+#zg-table td {
+    border: 1px #666666 solid;
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.zg-table-type-0 {
+    background: #ffffff;
+}
+.zg-table-type-1 {
+    background: #000000;
+}
+.zg-table-type-2 {
+    background: #00d6b2;
+}
+.zg-table-type-3 {
+    background: #4cae4c;
+}
